@@ -2,11 +2,11 @@
 
 <h2>Team Members:</h2>
 
-<b>Lila:</b> Front-end/visualizations, map view with P5  <br /> 
-<b>Adam:</b> Back-end/data processing, scripting with Python <br />
-<b>Matilda:</b> Front-end/visualizations, barchart with <br />
-<b>Danny:</b> Front-end/visualizations, piechart with <br />
-<b>Ben:</b> Back-end/data processing, data merging/statistics with Tableau/Excel/R <br />
+<b>Lila:</b> LED & microbit data interpretation and programming, fabrication  <br /> 
+<b>Adam:</b> Physical fabrication and design <br />
+<b>Matilda:</b> Report authoring and formatting <br />
+<b>Danny:</b> Fabrication assistance, data analysis, report authoring  <br />
+<b>Ben:</b> Physical text sizing and formatting, data analysis <br />
 
 
 <h2>World Happiness Map Making Time Lapse</h2> <br>
